@@ -1,9 +1,14 @@
 # Admin-Panel-Authgg-Open-Source
+<br>
 Discord: https://discord.gg/3t2568W
 <br>
+<br>
 Create: 18/08/2020
+<br>
 Got Out Open Source: 25/09/2020
+<br>
 Developed By: OldModz95
+<br>
 Language: C# Windows Form
 <br>
 <br>
